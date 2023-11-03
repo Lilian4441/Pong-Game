@@ -1,4 +1,4 @@
-# PongGame
+# PongGame:video_game:
 <h3>A graphical user interface application that simulates a fully playable Pong game.</h3>
 <h4> Completed: May 2023 </h4>
 
